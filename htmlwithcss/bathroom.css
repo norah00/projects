@@ -1,12 +1,12 @@
 
 body {
-    background-color:lightslategrey;
+    background-color:antiquewhite;
   
 }
 
 h1 {
     text-align:center;
-    color:white; 
+    color:black; 
  padding-top: 20px;
     font-family: Verdana, sans-serif;
 
@@ -15,7 +15,7 @@ h1 {
 
 pre {
     text-align:center;
-    color:white; 
+    color:black; 
  padding-top: 0px;
 
 }
@@ -29,7 +29,7 @@ font-family: Verdana, sans-serif;
 
 div {
     text-align:center;
-    color:white; 
+    color:black; 
  padding-top: 20px;
     font-family: Verdana, sans-serif;
 
@@ -38,13 +38,8 @@ div {
 
 a {
     text-align:center;
-    color:white; 
+    color:black; 
  padding-top: 20px;
     font-family: Verdana, sans-serif;
 } 
-
-
-h5{
-        text-align:center;
-}
 

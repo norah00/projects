@@ -1,6 +1,6 @@
 
 body {
-    background-color:lightslategrey;
+    background-color:lavender;
   
 }
 
@@ -15,18 +15,10 @@ h1 {
 
 pre {
     text-align:center;
-    color:white; 
+    color:black; 
  padding-top: 0px;
 
 }
-.name {
-    font-size:20px;
-font-family: Verdana, sans-serif;
-    color:lightgrey; 
-      padding-left: 40px;
-    padding-top: 30px;
-}
-
 div {
     text-align:center;
     color:white; 
@@ -38,13 +30,8 @@ div {
 
 a {
     text-align:center;
-    color:white; 
+    color:black; 
  padding-top: 20px;
     font-family: Verdana, sans-serif;
 } 
-
-
-h5{
-        text-align:center;
-}
 
