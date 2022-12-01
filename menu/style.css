@@ -1,45 +1,48 @@
 
-body {
-    background-color:black;
-      background-image:url(k.jpg);
-    background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center; 
-    background-size: cover; 
+body{
+    background-color: lavenderblush;
+
 }
 
-p {
-    text-align:left;
-    color:lightgrey; 
- padding-top: 0px;
-
-  padding-left: 70px;
-    opacity:60%;
+div{
+    font-family: serif;
+    font-size: 14px;
+    text-align: center;
+    
 }
 
-.name {
-    font-size:20px;
-font-family: Verdana, sans-serif;
-    color:lightgrey; 
-      padding-left: 40px;
-    padding-top: 30px;
+.div1{
+
 }
 
-.title{
-    font-size:12px;
-    font-family: Verdana, sans-serif;
- padding-top: 10px;
-      padding-left: 50px;
+p{
+    font-size: 15px;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.type{
+    font-size: 18px;
+        padding-top: 0px;
+
     font-weight: bold;
 }
 
-.project{
-    font-size:12px;
-    font-family: Verdana, sans-serif;
-    color:lightgrey; 
 
-}
+.square {
 
-a:hover{
-    color:#bd742b
+  height: 500px;
+  width: 500px;
+  background-color: white;
+
+  align-items: center;
 }
