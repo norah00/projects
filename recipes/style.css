@@ -1,48 +1,8 @@
-
-body{
-    background-color: lavenderblush;
-
-}
-
-div{
-    font-family: serif;
-    font-size: 14px;
-    text-align: center;
-    
-}
-
-.div1{
-
-}
-
-p{
-    font-size: 15px;
-}
-
-h1{
-    font-size: 30px;
-    text-align: center;
-    padding-top: 40px;
-}
-h2{
-    text-align: center;
-    font-family: cursive;
-    font-size: 15px;
-}
-
-.type{
-    font-size: 18px;
-        padding-top: 0px;
-
-    font-weight: bold;
-}
-
-
-.square {
-
-  height: 500px;
-  width: 500px;
-  background-color: white;
-
-  align-items: center;
+{
+padding: 0;
+margin: 0;
+max-width: 100%;
+overflow-x: hidden;
+position: relative;
+display: block;
 }
